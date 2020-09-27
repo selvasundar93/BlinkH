@@ -1,6 +1,6 @@
 # BlinkH
-Header file for blinking LED in Arduino
+## Header file for blinking LED in Arduino
+### _Funtion Name_
 
-Function                Work
-BlinkH_C                same on & off delay
-BlinkH_T                Different on & off delay
+* **BlinkH_C** - Same on & off delay
+* **BlinkH_T** - Different on & off delay
